@@ -300,6 +300,12 @@
 			"spawnWeight": 10,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "betteranimalsplus:zotzpyre",
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
 		}
 	],
 	"traits": [
